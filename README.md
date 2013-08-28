@@ -1,0 +1,4 @@
+cppcompress
+===========
+
+compression library
